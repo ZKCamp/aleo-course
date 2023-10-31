@@ -41,7 +41,7 @@ The first lecture reviews the curriculum and covers some of the Zero-Knowledge P
 <br/>
 <li><a href = "https://drive.google.com/file/d/18bdm2DZHROAq2s4S7cdjySC3DI-S4WbQ/view?usp=sharing">Recording</a></li>
 <li><a href = "https://drive.google.com/file/d/1Himv0ABiYFoOroX75EBxonc9l3MhRN-I/view?usp=sharing">Slides</a></li>
-<li><a href = "https://rose-fedora-226.notion.site/ZKP-Fundamentals-Quiz-d26816a306ba4e99ae88ad25a6482fcd?pvs=4">ZKP Fundamentals Quiz</a></li>
+<li><a href = "https://github.com/zkcamp/aleo-course/blob/main/quizzes/ZKP_Fundamentals_Quiz.md">ZKP Fundamentals Quiz</li>
 </details>
 
 <details>
@@ -52,7 +52,7 @@ In this lecture, Caleb Curry, from developer relations at Aleo, provides an intr
 <br/>
 <li><a href = "https://drive.google.com/file/d/1eJFaHUrkzSnwm6b7HAOSc8iB4Nclnnaf/view?usp=sharing">Recording</a></li>
 <li><a href = "https://drive.google.com/file/d/1BjdihKqeFXCBMo0t4bS6maBZAhrLhgUb/view?usp=sharing">Slides</a></li>
-<li><a href = "https://rose-fedora-226.notion.site/Aleo-Fundamentals-Quiz-870f3c9fc9f04845b84be6c9d3fbbc92?pvs=4">Aleo Fundamentals Quiz</a></li>
+<li><a href = "https://github.com/zkcamp/aleo-course/blob/main/quizzes/Aleo_Fundamentals_Quiz.md">Aleo Fundamentals Quiz</a></li>
 </details>
 
 <details>
@@ -63,8 +63,8 @@ This and the next 2 lectures focus on zkSNARKs, the building blocks of the Aleo 
 <br/>
 <li><a href = "https://drive.google.com/file/d/1iJ23MO13lEotLT4LNYWU0a0HpGrMD0N9/view?usp=sharing">Recording</a></li>
 <li><a href = "https://drive.google.com/file/d/1foKxWcKaOZUtebA6jUyDGq4nzQXUaiI2/view?usp=sharing">Slides</a></li>
-<li><a href = "https://tarry-spur-32f.notion.site/Polynomials-Quiz-0ca8a325759b44b293a0234b5070b36e?pvs=4">Polynomials Quiz</a></li>
-<li><a href = "https://rose-fedora-226.notion.site/Modular-Arithmetic-Quiz-ef788ad032e0404c907abb0f2d6c8740">Modular Math Quiz</a></li>
+<li><a href = "https://github.com/zkcamp/aleo-course/blob/main/quizzes/Polynomials_Quiz.md">Polynomials Quiz</a></li>
+<li><a href = "https://github.com/zkcamp/aleo-course/blob/main/quizzes/Modular_Arithmetic_Quiz.md">Modular Math Quiz</a></li>
 <li><a href = "https://github.com/ZKCamp/aleo-lagrange-assignment/tree/main">Lagrange Polynomial Assignment</a></li>
 <li><a href = "https://github.com/ZKCamp/aleo-lagrange-assignment/tree/solution">Lagrange Polynomial Assignment Solution</a></li>
 
@@ -79,7 +79,7 @@ Arithmetization is the technique by which high level programs are converted into
 <li><a href = "https://drive.google.com/file/d/1d2VJm6UdcIf3ZkadKUcU7TiZZy1zqsXP/view?usp=sharing">Recording</a></li>
 <li><a href = "https://drive.google.com/file/d/1a_j2fCnnaBy0Y7lwMLkqkus-wTylwW1R/view?usp=sharing">Slides</a></li>
 <li><a href = "https://gist.github.com/shubham-kanodia/dc9590531a3df230fc8063e499443932">Arithmetization example from lecture</a></li>
-<li><a href = "https://rose-fedora-226.notion.site/Arithmetization-Quiz-e2edb41563e345f9b594fb13f72ddba7">Arithmetization Quiz</a></li>
+<li><a href = "https://github.com/zkcamp/aleo-course/blob/main/quizzes/Arithmetization_Quiz.md">Arithmetization Quiz</a></li>
 <li><a href = "https://github.com/ZKCamp/aleo-qap-assignment">Arithmetization Assignment</a></li>
 <li><a href = "https://github.com/ZKCamp/aleo-qap-assignment/tree/solution">Arithmetization Assignment Solution</a></li>
 
@@ -88,17 +88,15 @@ Arithmetization is the technique by which high level programs are converted into
 <details>
 <summary><b>&nbsp;Lecture 5 - zkSNARKs - Elliptic Curves, KZG and Marlin</b></summary>
 <br/>
- The last lecture of zkSNARK fundamentals covers Elliptic Curves and KZG - a commitment scheme used by zkSNARKs. We also cover Marlin - the zkSNARK proof system used by Aleo.
 <br/>
 <li><a href = "https://drive.google.com/file/d/1SeTvO3qCHXnst9kSVKldHMLR581wi2XB/view?usp=sharing">Recording</a></li>
 <li><a href = "https://drive.google.com/file/d/1asUU8VJL6mNvw7q_xBs70ncTWyj5uya4/view?usp=sharing">Slides</a></li>
-<li><a href = "https://rose-fedora-226.notion.site/Elliptic-Curves-Quiz-6fc3b5b6b2c443d184646957b6a879c0">Elliptic Curves Quiz</a></li>
+<li><a href = "https://github.com/zkcamp/aleo-course/blob/main/quizzes/Elliptic_Curves_Quiz.md">Elliptic Curves Quiz</a></li>
 </details>
 
 <details>
 <summary><b>&nbsp;Lecture 6 - Leo Language Fundamentals</b></summary>
 <br/>
-This lecture provides an in-depth exploration of Leo, the programming language used to write programs on the Aleo blockchain. Through a series of short programs, we cover essential concepts of the language.
 <br/>
 <li><a href = "https://drive.google.com/file/d/11wA3RjEk97eOpGlNGQ9zXpyjmmOG5TKJ/view?usp=sharing">Recording</a></li>
 <li><a href = "https://drive.google.com/file/d/1XTzaZhWZ5iTY5laTZ-aD34bs6cXoYWR8/view?usp=sharing">Slides</a></li>
@@ -109,7 +107,6 @@ This lecture provides an in-depth exploration of Leo, the programming language u
 <details>
 <summary><b>&nbsp;Lecture 7 - Building a ZK App on Aleo</b></summary>
 <br/>
-To develop private and decentralized applications on Aleo, you need more than just knowledge of the Leo programming language. In this lecture, you will be guided through the process of setting up a project, using SnarkOS CLI for deploying programs locally and on the Aleo testnet by building a private application from scratch. By the end of this lecture, you will be equipped with the necessary skills to write and deploy programs on Aleo.
 <br/>
 <li><a href = "https://drive.google.com/file/d/1Oo5zYddYOTuAEu4KOxkXmTacRTYkSmxC/view?usp=sharing">Recording</a></li>
 <li><a href = "https://drive.google.com/file/d/1yqESYb5QlUI4i25JcdthQXAmHfoWnTXu/view?usp=sharing">Slides</a></li>
@@ -118,7 +115,6 @@ To develop private and decentralized applications on Aleo, you need more than ju
 <details>
 <summary><b>&nbsp;Lecture 8 - Advanced Aleo</b></summary>
 <br/>
-In the final lecture, we explore advanced topics related to the Aleo blockchain. We cover Aleo instructions, delving into their intricacies and capabilities. The lecture also takes few examples to showcase optimizations in Leo language to improve prover runtime and reduce fees when programs are executed on the network. Finally, we show how to use the Aleo Javascript SDK to build the frontend for ZK applications.
 <br/>
 <li><a href = "https://drive.google.com/file/d/1stEtHt-HsrFx3TNFNzfPqwbaa5tylGio/view?usp=sharing">Recording</a></li>
 <li><a href = "https://drive.google.com/file/d/1fm0Z6fdZC2PFr-3YJIQ_qZI3ADqGPq_T/view?usp=sharing">Slides</a></li>
@@ -127,7 +123,6 @@ In the final lecture, we explore advanced topics related to the Aleo blockchain.
 <details>
 <summary><b>&nbsp;Demo Day</b></summary>
 <br/>
-During the cohort, students collaborate with fellow cohort members to work on a project on the Aleo blockchain. This involves conceptualizing an innovative application idea, writing a whitepaper outlining the project, implementing the application using Aleo's programming language and tools. This culminates with a 7-minute presentation where teams showcase their final project to the cohort. In this cohort, 7 teams built and presented their projects.
 <br/>
 <li><a href = "https://drive.google.com/file/d/1PhWL5vqLINHvFdoprDBeWE-yPCMfyKXU/view?usp=sharing">Recording</a></li>
 </details>
