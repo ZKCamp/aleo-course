@@ -11,12 +11,13 @@ Aleo is a Layer-1 blockchain that supports privacy-preserving applications using
 
 Zero-knowledge cryptography has seen rapid progress in recent years and is used today for both scalability and privacy purposes in blockchains.
 
-Aleo is leveraging the zero knolwedge cryptography to build a privacy-first blockchain that is also programmble. This makes it significantly easier for developers to build and deploy private and decentralized blockchains.
+Aleo is leveraging the zero knolwedge cryptography to build a privacy-first blockchain that is also programmable. This makes it significantly easier for developers to build and deploy private and decentralized blockchains.
+
 Most ZK frameworks require advanced cryptography expertise, but Aleo with the Leo language and Aleo instructions abstracts away much of the complexity to open up zkApp development to the broader pool of web 3.0 developers.
 
-The shift from traditional development to building ZKP applications on Aleo introduces a new set of concepts and tools that may seem overwhelming at first. Aleo collaborated with ZKCamp.xyz to launch the first live cohort to teach building on the Aleo platform to a set of 20 developers durind Oct 08-28, 2023. 
+The shift from traditional development to building ZKP applications on Aleo introduces a new set of concepts and tools that may seem overwhelming at first. Aleo collaborated with ZKCamp.xyz to launch the first live cohort to teach building on the Aleo platform to a set of 20 developers during Oct 08-28, 2023. 
 
- The course, led by the instructors at ZKCamp and sponsored by Aleo, is tailored for engineers who do not have a math or cryptography background but are eager to learn it. Through a structured curriculum and live sessions with instructors, participants had the opportunity to learn and engage with the material in a collaborative environment. 
+The course, led by the instructors at ZKCamp and sponsored by Aleo, is tailored for engineers who do not have a math or cryptography background but are eager to learn it. Through a structured curriculum and live sessions with instructors, participants had the opportunity to learn and engage with the material in a collaborative environment. 
 
 ## Prerequisites
 
